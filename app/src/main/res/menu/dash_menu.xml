@@ -8,11 +8,11 @@
         <menu>
             <item
                 android:id="@+id/dash_action_switch"
-                android:title="@string/switch"
+                android:title="@string/dash_switch"
                 app:showAsAction="ifRoom"/>
             <item
                 android:id="@+id/dash_action_sort"
-                android:title="@string/sort"
+                android:title="@string/dash_sort"
                 app:showAsAction="ifRoom"/>
         </menu>
     </item>

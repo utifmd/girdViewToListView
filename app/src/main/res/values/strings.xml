@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">GirdToList</string>
-    <string name="swich">GirdToList</string>
-    <string name="sort">GirdToList</string>
+    <string name="dash_switch">GirdToList</string>
+    <string name="dash_sort">GirdToList</string>
 </resources>
